@@ -1,0 +1,7 @@
+gradio>=6.0.0
+pymupdf4llm
+docling>=2.38
+markitdown
+openpyxl
+pandas
+tabulate
