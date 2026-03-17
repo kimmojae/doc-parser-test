@@ -5,3 +5,4 @@ markitdown
 openpyxl
 pandas
 tabulate
+google-genai
